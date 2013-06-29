@@ -5,7 +5,7 @@ body
 	color: #555;
 	font: normal 10pt Arial,Helvetica,sans-serif;
 	background: #EFEFEF;
-    background: url(/images/background_s.jpg) fixed 50%;
+    background: url("/images/background_s.jpg") fixed 50%;
     background-size: 100% 100%;
 }
 
